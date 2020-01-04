@@ -5,7 +5,7 @@ spring:
     config:
       override-none: true
   rabbitmq:
-    host: 192.168.64.140
+    host: 176.17.9.72
     port: 5672
     username: admin
     password: admin
